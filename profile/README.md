@@ -3,16 +3,23 @@
 ## List of Projects
 - Quality Check
   - [Flutter-App](https://github.com/tieindia/qc_app)
-  - [Backend](https://github.com/tieindia/Toyota-API-Codebase)
+  - [Back-end](https://github.com/tieindia/Toyota-API-Codebase)
 - HPCS
+  - [Flutter App]()
+  - [Back-end](https://github.com/tieindia/Toyota-Codebase-HPCS-MobileApp)
+  - [Report Generation](https://github.com/tieindia/Report-Generation)
 - [MTB](https://github.com/tieindia/mtb)
 - SSO
-- Application Request Form
-- GPS
-- User Survey Backend
-- DCS
-- Report Generation
-- TBM
+  - [Front-end](https://github.com/tieindia/SSO-frontend)
+  - [Back-end](https://github.com/tieindia/SSO-backend)
+- [Application Request Form]
+  - [Front-end](https://github.com/tieindia/Application-Request-Frontend)
+  - [Back-end](https://github.com/tieindia/Application-Request-Backend)
+- [GPS]
+  - [Front-end](https://github.com/tieindia/GPS-Information-Sheet-Frontend)
+  - [Back-end](https://github.com/tieindia/GPS-Information-Sheet-Backend)
+- [DCS](https://github.com/tieindia/dcs)
+- [TBM](https://github.com/tieindia/tbm)
 
 <!--
 

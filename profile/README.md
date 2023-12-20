@@ -4,6 +4,7 @@
 - Quality Check
   - [Flutter-App](https://github.com/tieindia/qc_app)
   - [Back-end](https://github.com/tieindia/Toyota-API-Codebase)
+  - [Dashboard](https://github.com/tieindia/QC-Dashboard)
 - HPCS
   - [Flutter App]()
   - [Back-end](https://github.com/tieindia/Toyota-Codebase-HPCS-MobileApp)
